@@ -17,15 +17,20 @@
     margin-bottom: 32px;
 
 }
+
+
 .botao{
+    background-color: #FF725E;
+    border-radius: 8px;
+    color: #FFFFFFFF;
+    /*vertical, horizontal*/
+    padding: 16px 32px;
+    text-decoration: none;
+}
+
+.botao-transparente{
     background-color: transparent;
     color: #FF725E;
     padding: 16px 32px;
     text-underline-offset: 4px;
-}
-
-.botao-tranparente{
-    background-color: #FF725E;
-    border-radius: 8px;
-    padding: 16px 32px;
 }
