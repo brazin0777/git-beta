@@ -1,0 +1,24 @@
+*{
+    font-family: "Oswald", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#inicio{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    position: relative;
+}
+
+.paragrafo{
+    line-height: 150%;
+    margin-bottom: 32px;
+
+}
+.botao{
+    background-color: transparent;
+    color: #FF725E;
+
+}
